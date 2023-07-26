@@ -72,7 +72,7 @@ body * {
 #switch button {
   width: 32px;
   height: 32px;
-  background: white no-repeat center var(--switch-bg-url);
+  background: rgb(255, 255, 255) no-repeat center var(--switch-bg-url);
   border: 0;
   border-radius: 50%;
   position: absolute;
